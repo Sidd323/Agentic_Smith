@@ -13,4 +13,4 @@ will scan insta/FB with users credentials to find matching art forms and vibe al
 
 Agent C
 
-will scan the scan the web spaces that trade art forms and update with  
+will scan the scan the web spaces that trade art forms and find space for user to trade art 
